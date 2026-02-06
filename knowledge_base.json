@@ -1,0 +1,135 @@
+{
+  "universities": {
+    "global tech university": {
+      "location": "Bangalore",
+      "programs": {
+        "computer science": {
+          "degree": "B.Tech",
+          "duration": "4 years",
+          "eligibility": "Minimum 60% in 12th with Physics, Chemistry, and Mathematics.",
+          "entrance_exams": ["JEE Main", "KCET", "COMEDK"],
+          "fees_per_year": "₹2,00,000",
+          "career_paths": [
+            "Software Engineer",
+            "AI Engineer",
+            "Data Scientist",
+            "Cloud Engineer",
+            "Cybersecurity Analyst"
+          ],
+          "documents": [
+            "10th Marks Card",
+            "12th Marks Card",
+            "Entrance Exam Scorecard",
+            "Transfer Certificate",
+            "Passport Size Photos",
+            "ID Proof"
+          ],
+          "application_steps": [
+            "Create account on admission portal",
+            "Fill online application form",
+            "Upload documents",
+            "Pay application fee",
+            "Attend counseling",
+            "Confirm seat"
+          ],
+          "deadline": "30 June 2026"
+        },
+
+        "electronics": {
+          "degree": "B.Tech",
+          "duration": "4 years",
+          "eligibility": "Minimum 55% in 12th with PCM.",
+          "entrance_exams": ["JEE Main", "KCET"],
+          "fees_per_year": "₹1,80,000",
+          "career_paths": [
+            "Embedded Engineer",
+            "VLSI Engineer",
+            "Telecom Engineer",
+            "Robotics Engineer"
+          ],
+          "documents": [
+            "10th Marks Card",
+            "12th Marks Card",
+            "Entrance Scorecard",
+            "ID Proof"
+          ],
+          "application_steps": [
+            "Online registration",
+            "Form submission",
+            "Fee payment",
+            "Counseling"
+          ],
+          "deadline": "15 July 2026"
+        }
+      }
+    },
+
+    "national business school": {
+      "location": "Mumbai",
+      "programs": {
+        "mba": {
+          "degree": "MBA",
+          "duration": "2 years",
+          "eligibility": "Bachelor’s degree with minimum 50%.",
+          "entrance_exams": ["CAT", "MAT", "CMAT"],
+          "fees_per_year": "₹4,50,000",
+          "career_paths": [
+            "Business Analyst",
+            "Marketing Manager",
+            "HR Manager",
+            "Product Manager",
+            "Consultant"
+          ],
+          "documents": [
+            "Degree Certificate",
+            "Entrance Scorecard",
+            "Resume",
+            "Statement of Purpose",
+            "ID Proof"
+          ],
+          "application_steps": [
+            "Online registration",
+            "Entrance exam",
+            "Shortlisting",
+            "Interview round",
+            "Final admission"
+          ],
+          "deadline": "20 July 2026"
+        }
+      }
+    },
+
+    "institute of design and media": {
+      "location": "Delhi",
+      "programs": {
+        "bdes": {
+          "degree": "Bachelor of Design",
+          "duration": "4 years",
+          "eligibility": "50% in 12th in any stream.",
+          "entrance_exams": ["NID DAT", "UCEED"],
+          "fees_per_year": "₹3,00,000",
+          "career_paths": [
+            "UI/UX Designer",
+            "Product Designer",
+            "Graphic Designer",
+            "Animation Artist"
+          ],
+          "documents": [
+            "10th Marks Card",
+            "12th Marks Card",
+            "Portfolio",
+            "Entrance Scorecard"
+          ],
+          "application_steps": [
+            "Online application",
+            "Upload portfolio",
+            "Entrance exam",
+            "Interview",
+            "Admission confirmation"
+          ],
+          "deadline": "10 July 2026"
+        }
+      }
+    }
+  }
+}
